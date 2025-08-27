@@ -47,7 +47,7 @@ AI-PatternMaker/
 ├── /images/                # Diagrams and logo
 ├── /docs/                  # Project pitch and PDFs
 └── /data/                  # Training and test datasets
-
+---
 ## 📝 License
 
 This project is licensed under the MIT License — feel free to build and learn with it.
