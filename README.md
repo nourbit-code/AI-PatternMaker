@@ -35,8 +35,6 @@
 ---
 
 ## 📁 Project Structure (Planned)
-
-```bash
 AI-PatternMaker/
 │
 ├── README.md               # Project overview
