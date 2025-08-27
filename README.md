@@ -35,7 +35,7 @@
 ---
 
 ## 📁 Project Structure (Planned)
-AI-PatternMaker/
+```AI-PatternMaker/
 │
 ├── README.md               # Project overview
 ├── LICENSE                 # MIT License
@@ -46,7 +46,7 @@ AI-PatternMaker/
 ├── /docs/                  # Project pitch and PDFs
 └── /data/                  # Training and test datasets
 
-
+```
 ---
 
 ## 📝 License
