@@ -47,3 +47,14 @@ AI-PatternMaker/
 ├── /images/                # Diagrams and logo
 ├── /docs/                  # Project pitch and PDFs
 └── /data/                  # Training and test datasets
+
+## 📝 License
+
+This project is licensed under the MIT License — feel free to build and learn with it.
+
+---
+
+## 👩‍💻 Founder
+
+Created by Nour (@nourbit-code)  
+This project idea is original, documented, and developed as an open research-based tool.
