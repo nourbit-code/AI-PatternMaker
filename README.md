@@ -49,6 +49,7 @@ AI-PatternMaker/
 └── /data/                  # Training and test datasets
 ---
 ## 📝 License
+```bash
 
 This project is licensed under the MIT License — feel free to build and learn with it.
 
