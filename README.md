@@ -36,16 +36,17 @@
 
 ## 📁 Project Structure (Planned)
 
+```bash
 AI-PatternMaker/
 │
-├── README.md # Project overview
-├── LICENSE # MIT License
-├── requirements.txt # Python dependencies
-├── /notebooks/ # AI model experiments
-├── /src/ # Source code for backend
-├── /images/ # Diagrams and logo
-├── /docs/ # Project pitch and PDFs
-└── /data/ # Training and test datasets
+├── README.md               # Project overview
+├── LICENSE                 # MIT License
+├── requirements.txt        # Python dependencies
+├── /notebooks/             # AI model experiments
+├── /src/                   # Source code for backend
+├── /images/                # Diagrams and logo
+├── /docs/                  # Project pitch and PDFs
+└── /data/                  # Training and test datasets****
 
 
 ---
